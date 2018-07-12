@@ -1,0 +1,42 @@
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Camera access.exe.config
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Camera access.exe
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Camera access.pdb
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Emgu.CV.UI.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Emgu.CV.World.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\ZedGraph.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Emgu.CV.UI.xml
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\Emgu.CV.World.xml
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.csprojAssemblyReference.cache
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera_access.Form1.resources
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera_access.Properties.Resources.resources
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.csproj.GenerateResource.cache
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.csproj.CoreCompileInputs.cache
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.csproj.CopyComplete
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.exe
+c:\users\safwan\source\repos\Camera access\Camera access\obj\Debug\Camera access.pdb
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\concrt140.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\cvextern.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\msvcp140.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\opencv_ffmpeg341.dll
+c:\users\safwan\source\repos\Camera access\Camera access\bin\Debug\vcruntime140.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\concrt140.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\cvextern.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\msvcp140.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\opencv_ffmpeg341.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\vcruntime140.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Camera access.exe.config
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Camera access.exe
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Camera access.pdb
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Emgu.CV.World.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\ZedGraph.dll
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Safwan\Desktop\Camera access\Camera access\bin\Debug\Emgu.CV.World.xml
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.csprojAssemblyReference.cache
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera_access.Form1.resources
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera_access.Properties.Resources.resources
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.csproj.GenerateResource.cache
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.csproj.CoreCompileInputs.cache
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.csproj.CopyComplete
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.exe
+C:\Users\Safwan\Desktop\Camera access\Camera access\obj\Debug\Camera access.pdb
